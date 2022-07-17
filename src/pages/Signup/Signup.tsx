@@ -24,7 +24,7 @@ function Signup() {
   }
 
   return (
-    <div className="flex w-full h-screen justify-center items-center">
+    <div className="flex w-full min-h-screen justify-center items-center p-5">
       <div className="max-w-md flex flex-col border border-gray-400 rounded-lg shadow-sm space-y-8 items-center p-8">
         <div className="flex flex-col space-y-1 items-center">
           <p className="serif font-mono tracking-wider">Telixia</p>
